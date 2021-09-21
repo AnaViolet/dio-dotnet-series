@@ -9,4 +9,4 @@
 &nbsp;
 &nbsp;
 
-Especialista do projeto: [Eliézer Zarpelão](github.com/elizarp)
+Especialista do projeto: [Eliézer Zarpelão](https://github.com/elizarp)
